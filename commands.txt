@@ -1,0 +1,2 @@
+Commands for extract : tar -zxvf png_list_2.tar.gz
+
